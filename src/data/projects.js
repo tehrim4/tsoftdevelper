@@ -38,7 +38,7 @@ export const projects = [
     stack: ['JavaScript', 'Node.js', 'Express', 'PostgreSQL', 'WebSocket'],
     status: 'Live',
     theme: 'market',
-    url: 'https://market-4c2cphgnj-tehrim4s-projects.vercel.app',
+    url: 'https://market-os-chi.vercel.app/',
     image: '/assets/images/projects/market-os.png',
   },
   {
