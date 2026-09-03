@@ -35,7 +35,7 @@ const FacebookMark = ({ size = 14 }) => (
     f
   </span>
 );
-
+// /public/favicon.ico
 export default function Footer() {
   return (
     <footer className="footer">
